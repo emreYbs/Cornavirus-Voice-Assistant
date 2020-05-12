@@ -6,6 +6,7 @@ import re
 import threading
 import time
 
+#Eylul diyor ki :) Api anahtarınızı öncelikle almanız ve buraya girmeniz gerekir.
 API_KEY = "{PUT-YOURS-HERE}"
 PROJECT_TOKEN = "{PUT-YOURS-HERE}"
 RUN_TOKEN = "{PUT-YOURS-HERE}"
